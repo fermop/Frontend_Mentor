@@ -23,7 +23,8 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 2rem;
 }
 .container{
     background-color: var(--White);
@@ -98,7 +99,6 @@ body{
 .attribution{
     font-size: 0.6875rem;
     text-align: center;
-    margin-top: 2em;
 }
 .attribution a{
     color: var(--Dark-cyan);
@@ -127,8 +127,5 @@ body{
         display: block;
         grid-column-start: 1;
         width: 100%;
-    }
-    .attribution{
-        margin-top: 0;
     }
 }
