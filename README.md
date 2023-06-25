@@ -8,3 +8,4 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 4. [Single price grid component master](https://fermop.github.io/Frontend_Mentor/04-Single_price_grid_component_master/).
 5. [Product preview card component main](https://fermop.github.io/Frontend_Mentor/05-Product_preview_card_component_main/).
 6. [Stats preview card component main](https://fermop.github.io/Frontend_Mentor/06-Stats_preview_card_component_main/).
+7. [Order summary component main](https://fermop.github.io/Frontend_Mentor/07-Order_summary_component_main/).
