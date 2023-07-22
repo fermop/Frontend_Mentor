@@ -10,3 +10,4 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 6. [Stats preview card component main](https://fermop.github.io/Frontend_Mentor/06-Stats_preview_card_component_main/).
 7. [Order summary component main](https://fermop.github.io/Frontend_Mentor/07-Order_summary_component_main/).
 8. [NFT preview card component main](https://fermop.github.io/Frontend_Mentor/08-NFT_preview_card_component_main).
+9. [Profile card component](https://fermop.github.io/Frontend_Mentor/09-Profile_card_component).
