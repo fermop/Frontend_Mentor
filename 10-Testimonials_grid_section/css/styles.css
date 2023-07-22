@@ -74,8 +74,14 @@ body {
 }
 
 /* Fixing Accessibility report bug */
-h1 {
-  display: none;
+.sr-only:not(:focus):not(:active) {
+  clip: rect(0 0 0 0); 
+  clip-path: inset(50%);
+  height: 0.0625rem;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap; 
+  width: 0.0625rem;
 }
 
 /* ---------- Modifiers ---------- */
