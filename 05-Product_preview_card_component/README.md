@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/product-preview-card-component-solution-mgkkiw53gt](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-mgkkiw53gt)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/05-Product_preview_card_component_main/](https://fermop.github.io/Frontend_Mentor/05-Product_preview_card_component_main/)
+- Live Site Here: [https://fermop.github.io/Frontend_Mentor/05-Product_preview_card_component/](https://fermop.github.io/Frontend_Mentor/05-Product_preview_card_component/)
 
 ## My process
 

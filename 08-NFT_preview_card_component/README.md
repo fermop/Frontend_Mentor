@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-4xxSKNLjAd](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-4xxSKNLjAd)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/08-NFT_preview_card_component_main](https://fermop.github.io/Frontend_Mentor/08-NFT_preview_card_component_main)
+- Live Site Here: [https://fermop.github.io/Frontend_Mentor/08-NFT_preview_card_component/](https://fermop.github.io/Frontend_Mentor/08-NFT_preview_card_component/)
 
 ## My process
 

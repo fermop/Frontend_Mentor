@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component-solution-pKdFPq2s60](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-pKdFPq2s60)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/04-Single_price_grid_component_master/](https://fermop.github.io/Frontend_Mentor/04-Single_price_grid_component_master/)
+- Live Site Here: [https://fermop.github.io/Frontend_Mentor/04-Single_price_grid_component/](https://fermop.github.io/Frontend_Mentor/04-Single_price_grid_component/)
 
 ## My process
 

@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-solution-h2jNZxqpjb](https://www.frontendmentor.io/solutions/qr-code-component-solution-h2jNZxqpjb)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/03-qr_code_component_main/](https://fermop.github.io/Frontend_Mentor/03-qr_code_component_main/)
+- Live Site Here: [https://fermop.github.io/Frontend_Mentor/03-qr_code_component/](https://fermop.github.io/Frontend_Mentor/03-qr_code_component/)
 
 ## My process
 
