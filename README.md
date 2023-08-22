@@ -17,3 +17,4 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 13. [Social proof section](https://fermop.github.io/Frontend_Mentor/13-Social_proof_section/).
 14. [FAQ accordion card](https://fermop.github.io/Frontend_Mentor/14-FAQ_accordion_card/).
 15. [Results summary component](https://fermop.github.io/Frontend_Mentor/15-Results_summary_component/).
+16. [News homepage](https://fermop.github.io/Frontend_Mentor/16-News_homepage/).
