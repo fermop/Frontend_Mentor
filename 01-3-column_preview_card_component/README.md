@@ -25,14 +25,10 @@ Users should be able to:
 ### Screenshots
 
 #### Phones and landscape phones
-![Preview on phones](https://user-images.githubusercontent.com/107861444/177917160-ea121471-4f66-4d89-9461-b93a8a7db4e4.png)
-![Preview landscape phones](https://user-images.githubusercontent.com/107861444/177917408-a1f9826a-ac10-446a-a8f7-6becf6ec73c7.png)
-#### Tablets
-![Preview on tablets](https://user-images.githubusercontent.com/107861444/177920506-44f5131d-87d8-414a-9a4e-4f68754c0ce2.png)
-#### Desktops
-![Preview on desktops](https://user-images.githubusercontent.com/107861444/177920301-67cab799-042c-4777-9b13-08f04d3883c9.png)
-#### Large Desktops
-![Preview on large desktops](https://user-images.githubusercontent.com/107861444/177920585-23639894-42a7-4114-8a8c-af4fed87e7a3.png)
+![Preview on phones](./assets/images/mobile.png)
+
+#### Desktop
+![Preview on desktops](./assets/images/desktop.png)
 
 ### Links
 
