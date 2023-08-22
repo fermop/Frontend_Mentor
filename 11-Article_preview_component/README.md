@@ -30,10 +30,10 @@ Users should be able to:
 
 ![Mobile](./assets/images/mobile.png)
 
-
 💻 Desktop
 
 ![Desktop](./assets/images/desktop.png)
+![Desktop](./assets/images/desktop-active.png)
 
 ### Links
 
