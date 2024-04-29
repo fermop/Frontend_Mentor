@@ -1,0 +1,32 @@
+:root {
+    /* Primary colors */
+    --Green: hsl(75, 94%, 57%);
+
+    /* Secondary colors */
+    --White: hsl(0, 0%, 100%);
+    --Grey: hsl(0, 0%, 20%);
+    --Dark-Grey: hsl(0, 0%, 12%);
+    --Off-Black: hsl(0, 0%, 8%);
+
+    /* Fonts */
+    --ff-base: "Inter", sans-serif;
+}
+
+/* ----- Global ----- */
+html {
+    font-size: 100%;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--ff-base);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
