@@ -106,7 +106,6 @@ body {
 }
 
 .attribution {
-    display: none;
     color: var(--White);
     font-size: .6875rem;
     text-align: center;
