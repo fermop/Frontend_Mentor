@@ -19,3 +19,4 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 15. [Results summary component](https://fermop.github.io/Frontend_Mentor/15-Results_summary_component/).
 16. [News homepage](https://fermop.github.io/Frontend_Mentor/16-News_homepage/).
 17. [Social links profile](https://fermop.github.io/Frontend_Mentor/17-Social_links_profile/).
+18. [Recipe page](https://fermop.github.io/Frontend_Mentor/18-Recipe_page/).
