@@ -2,21 +2,24 @@
 
 This is a repositoy where I have all the challenges I have completed from Frontend Mentor.
 
-1. [3-column preview card component](https://fermop.github.io/Frontend_Mentor/01-3-column_preview_card_component/).
-2. [Huddle landing page with a single introductory section](https://fermop.github.io/Frontend_Mentor/02-Huddle_landing_page_with_a_single_introductory_section/).
-3. [QR code component](https://fermop.github.io/Frontend_Mentor/03-qr_code_component/).
-4. [Single price grid component](https://fermop.github.io/Frontend_Mentor/04-Single_price_grid_component/).
-5. [Product preview card component](https://fermop.github.io/Frontend_Mentor/05-Product_preview_card_component/).
-6. [Stats preview card component](https://fermop.github.io/Frontend_Mentor/06-Stats_preview_card_component/).
-7. [Order summary component](https://fermop.github.io/Frontend_Mentor/07-Order_summary_component/).
-8. [NFT preview card component](https://fermop.github.io/Frontend_Mentor/08-NFT_preview_card_component/).
-9. [Profile card component](https://fermop.github.io/Frontend_Mentor/09-Profile_card_component/).
-10. [Testimonials grid section](https://fermop.github.io/Frontend_Mentor/10-Testimonials_grid_section/).
-11. [Article preview component](https://fermop.github.io/Frontend_Mentor/11-Article_preview_component/).
-12. [Four card feature section](https://fermop.github.io/Frontend_Mentor/12-Four_card_feature_section/).
-13. [Social proof section](https://fermop.github.io/Frontend_Mentor/13-Social_proof_section/).
-14. [FAQ accordion card](https://fermop.github.io/Frontend_Mentor/14-FAQ_accordion_card/).
-15. [Results summary component](https://fermop.github.io/Frontend_Mentor/15-Results_summary_component/).
-16. [News homepage](https://fermop.github.io/Frontend_Mentor/16-News_homepage/).
-17. [Social links profile](https://fermop.github.io/Frontend_Mentor/17-Social_links_profile/).
-18. [Recipe page](https://fermop.github.io/Frontend_Mentor/18-Recipe_page/).
+## Newbie
+- [3-column preview card component](https://fermop.github.io/frontend_mentor/newbie/3-column_preview_card_component/). HTML | CSS
+- [Huddle landing page with a single introductory section](https://fermop.github.io/frontend_mentor/newbie/huddle_landing_page_with_a_single_introductory_section/). HTML | CSS
+- [QR code component](https://fermop.github.io/frontend_mentor/newbie/qr_code_component/). HTML | CSS
+- [Single price grid component](https://fermop.github.io/frontend_mentor/newbie/single_price_grid_component/). HTML | CSS
+- [Product preview card component](https://fermop.github.io/frontend_mentor/newbie/product_preview_card_component/). HTML | CSS
+- [Stats preview card component](https://fermop.github.io/frontend_mentor/newbie/stats_preview_card_component/). HTML | CSS
+- [Order summary component](https://fermop.github.io/frontend_mentor/newbie/order_summary_component/). HTML | CSS
+- [NFT preview card component](https://fermop.github.io/frontend_mentor/newbie/nft_preview_card_component/). HTML | CSS
+- [Profile card component](https://fermop.github.io/frontend_mentor/newbie/profile_card_component/). HTML | CSS
+- [Article preview component](https://fermop.github.io/frontend_mentor/newbie/article_preview_component/). HTML | CSS | JS
+- [Four card feature section](https://fermop.github.io/frontend_mentor/newbie/four_card_feature_section/). HTML | CSS
+- [Social proof section](https://fermop.github.io/frontend_mentor/newbie/social_proof_section/). HTML | CSS
+- [FAQ accordion card](https://fermop.github.io/frontend_mentor/newbie/faq_accordion_card/). HTML | CSS | JS
+- [Results summary component](https://fermop.github.io/frontend_mentor/newbie/results_summary_component/). HTML | CSS
+- [Social links profile](https://fermop.github.io/frontend_mentor/newbie/social_links_profile/). HTML | CSS
+- [Recipe page](https://fermop.github.io/frontend_mentor/newbie/recipe_page/). HTML | CSS
+
+## Junior
+- [Testimonials grid section](https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/). HTML | CSS
+- [News homepage](https://fermop.github.io/frontend_mentor/junior/news_homepage/). HTML | CSS | JS
