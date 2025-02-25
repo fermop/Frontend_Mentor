@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section--j-sv4bY9z](https://www.frontendmentor.io/solutions/four-card-feature-section--j-sv4bY9z)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/12-Four_card_feature_section/](https://fermop.github.io/Frontend_Mentor/12-Four_card_feature_section/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/four_card_feature_section/](https://fermop.github.io/frontend_mentor/newbie/four_card_feature_section/)
 
 ## My process
 

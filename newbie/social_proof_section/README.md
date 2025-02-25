@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-vI9XGluGg-](https://www.frontendmentor.io/solutions/social-proof-section-vI9XGluGg-)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/13-Social_proof_section/](https://fermop.github.io/Frontend_Mentor/13-Social_proof_section/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/social_proof_section/](https://fermop.github.io/frontend_mentor/newbie/social_proof_section/)
 
 ## My process
 

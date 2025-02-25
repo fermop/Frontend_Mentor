@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-solution-Lo92V3_sqx](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-solution-Lo92V3_sqx)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/02-Huddle_landing_page_with_a_single_introductory_section/](https://fermop.github.io/Frontend_Mentor/02-Huddle_landing_page_with_a_single_introductory_section/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/huddle_landing_page_with_a_single_introductory_section/](https://fermop.github.io/frontend_mentor/newbie/huddle_landing_page_with_a_single_introductory_section/)
 
 ## My process
 

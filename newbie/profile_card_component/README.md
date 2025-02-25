@@ -35,7 +35,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/profile-card-component-ZupUgASzyH](https://www.frontendmentor.io/solutions/profile-card-component-ZupUgASzyH)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/09-Profile_card_component/](https://fermop.github.io/Frontend_Mentor/09-Profile_card_component/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/profile_card_component/](https://fermop.github.io/frontend_mentor/newbie/profile_card_component/)
 
 ## My process
 

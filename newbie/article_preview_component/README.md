@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/article-preview-component-hDwRJD7ZeD](https://www.frontendmentor.io/solutions/article-preview-component-hDwRJD7ZeD)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/11-Article_preview_component/](https://fermop.github.io/Frontend_Mentor/11-Article_preview_component/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/article_preview_component/](https://fermop.github.io/frontend_mentor/newbie/article_preview_component/)
 
 ## My process
 

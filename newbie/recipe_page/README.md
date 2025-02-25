@@ -30,7 +30,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-qvLrnHGhFz](https://www.frontendmentor.io/solutions/recipe-page-qvLrnHGhFz)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/18-Recipe_page/](https://fermop.github.io/Frontend_Mentor/18-Recipe_page/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/recipe_page/](https://fermop.github.io/frontend_mentor/newbie/recipe_page/)
 
 ## My process
 

@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-solution-cPF46epdvW](https://www.frontendmentor.io/solutions/order-summary-card-solution-cPF46epdvW)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/07-Order_summary_component/](https://fermop.github.io/Frontend_Mentor/07-Order_summary_component/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/order_summary_component/](https://fermop.github.io/frontend_mentor/newbie/order_summary_component/)
 
 ## My process
 

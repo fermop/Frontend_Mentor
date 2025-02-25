@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-solution-rbMuzk-Rlf](https://www.frontendmentor.io/solutions/3column-preview-card-component-solution-rbMuzk-Rlf)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/01-3-column_preview_card_component/](https://fermop.github.io/Frontend_Mentor/01-3-column_preview_card_component/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/3-column_preview_card_component/](https://fermop.github.io/frontend_mentor/newbie/3-column_preview_card_component/)
 
 ## My process
 

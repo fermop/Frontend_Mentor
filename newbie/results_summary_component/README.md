@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/results-summary-component-gU7oCQXzcb](https://www.frontendmentor.io/solutions/results-summary-component-gU7oCQXzcb)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/15-Results_summary_component/](https://fermop.github.io/Frontend_Mentor/15-Results_summary_component/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/results_summary_component/](https://fermop.github.io/frontend_mentor/newbie/results_summary_component/)
 
 ## My process
 

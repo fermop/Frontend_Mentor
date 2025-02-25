@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-2SnMsVL-20](https://www.frontendmentor.io/solutions/testimonials-grid-section-2SnMsVL-20)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/10-Testimonials_grid_section/](https://fermop.github.io/Frontend_Mentor/10-Testimonials_grid_section/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/](https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/)
 
 ## My process
 

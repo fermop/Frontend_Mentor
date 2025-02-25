@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-7m-OpQz6IR](https://www.frontendmentor.io/solutions/news-homepage-7m-OpQz6IR)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/16-News_homepage/](https://fermop.github.io/Frontend_Mentor/16-News_homepage/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/junior/news_homepage/](https://fermop.github.io/frontend_mentor/junior/news_homepage/)
 
 ## My process
 

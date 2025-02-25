@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-card-_GlBaV-w0w](https://www.frontendmentor.io/solutions/faq-accordion-card-_GlBaV-w0w)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/14-FAQ_accordion_card/](https://fermop.github.io/Frontend_Mentor/14-FAQ_accordion_card/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/faq_accordion_card/](https://fermop.github.io/frontend_mentor/newbie/faq_accordion_card/)
 
 ## My process
 

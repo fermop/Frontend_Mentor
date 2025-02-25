@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-J1raRkSHA9](https://www.frontendmentor.io/solutions/social-links-profile-J1raRkSHA9)
-- Live Site Here: [https://fermop.github.io/Frontend_Mentor/17-Social_links_profile/](https://fermop.github.io/Frontend_Mentor/17-Social_links_profile/)
+- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/social_links_profile/](https://fermop.github.io/frontend_mentor/newbie/social_links_profile/)
 
 ## My process
 
