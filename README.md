@@ -19,6 +19,7 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 - [Results summary component](https://fermop.github.io/frontend_mentor/newbie/results_summary_component/). HTML | CSS
 - [Social links profile](https://fermop.github.io/frontend_mentor/newbie/social_links_profile/). HTML | CSS
 - [Recipe page](https://fermop.github.io/frontend_mentor/newbie/recipe_page/). HTML | CSS
+- [Blog preview card](https://fermop.github.io/frontend_mentor/newbie/blog_preview_card/). HTML | CSS
 
 ## Junior
 - [Testimonials grid section](https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/). HTML | CSS
