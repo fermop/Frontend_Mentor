@@ -110,7 +110,7 @@ body {
 
 @media (min-width: 24rem) {
     .card__category {
-        font-size: 13px;
+        font-size: .8125rem;
     }
 
     .card__published-date {
