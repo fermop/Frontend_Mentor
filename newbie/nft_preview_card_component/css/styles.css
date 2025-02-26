@@ -93,12 +93,13 @@ a {
   border-radius: 0.5rem;
   display: grid;
   place-items: center;
-  clip-path: circle(0 at top);
+  clip-path: fill-box;
+  opacity: 0;
 }
 
 .block:hover::after {
-  transition: 0.75s;
-  clip-path: circle(150% at top);
+  transition: 500ms;
+  opacity: .5;
 }
 
 .card__tittle {
