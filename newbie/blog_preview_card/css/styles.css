@@ -93,8 +93,8 @@ body {
     font-size: .75rem;
 }
 
+/* ----- Footer ----- */
 .attribution {
-    display: none;
     font-size: .6875rem;
     text-align: center;
 }
@@ -103,9 +103,14 @@ body {
     font-weight: var(--fw-bold);
 }
 
+.attribution a:hover {
+    transition: 250ms;
+    opacity: .7;
+}
+
 @media (min-width: 24rem) {
     .card__category {
-        font-size: 13px;
+        font-size: .8125rem;
     }
 
     .card__published-date {
