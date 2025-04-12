@@ -20,7 +20,7 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 - [Social links profile](https://fermop.github.io/frontend_mentor/newbie/social_links_profile/). HTML | CSS
 - [Recipe page](https://fermop.github.io/frontend_mentor/newbie/recipe_page/). HTML | CSS
 - [Blog preview card](https://fermop.github.io/frontend_mentor/newbie/blog_preview_card/). HTML | CSS
-- [FAQ accordion main](https://fermop.github.io/frontend_mentor/newbie/faq_accordion_main/). VITE | VUE | TAILWIND
+- [FAQ accordion main](https://fermop.github.io/frontend_mentor/newbie/faq_accordion_main/dist/). VITE | VUE | TAILWIND
 
 ## Junior
 - [Testimonials grid section](https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/). HTML | CSS
