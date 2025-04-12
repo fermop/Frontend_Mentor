@@ -9,6 +9,9 @@
 
   /* Font family */
   --font-base: "Work Sans", sans-serif;
+
+  /* Breakpoints */
+  --breakpoint-desktop: 29.375rem;
 }
 
 /* Footer */
