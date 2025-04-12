@@ -1,4 +1,4 @@
-[
+export const db = [
     {
         "logo": "./assets/images/logo-devlens.svg",
         "name": "DevLens",
@@ -71,4 +71,4 @@
         "description": "Enhanced developer console with advanced filtering and logging.",
         "isActive": true
     }
-  ]
+]
