@@ -26,7 +26,7 @@
     <h1 class="text-green-300 tracking-[8px] text-[.75rem] py-[3rem]">ADVICE #{{ adviceId }}</h1>
     <p class="text-blue-200 text-[1.75rem] font-extrabold">"{{ advice }}"</p>
 
-    <div class="mt-[2rem] mb-[4rem md:mt-[3rem] md:mb-[5rem]">
+    <div class="mt-[2rem] mb-[4rem] md:mt-[3rem] md:mb-[5rem]">
       <img 
         class="w-full md:hidden"
         src="/assets/images/pattern-divider-mobile.svg" alt=""

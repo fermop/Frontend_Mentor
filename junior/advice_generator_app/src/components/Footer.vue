@@ -1,11 +1,6 @@
 <template>
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
+  <div class="text-[.6875rem] text-center text-blue-600 mt-[2rem]">
+    Challenge by <a class="text-green-300 font-bold hover:opacity-[.7] duration-250" href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db" target="_blank">Frontend Mentor</a>. 
+    Coded by <a class="text-green-300 font-bold hover:opacity-[.7] duration-250" href="https://www.frontendmentor.io/solutions/advice-generator-app-3XvZexYeVi" target="_blank">Fernando Pérez</a>.
   </div>
 </template>
-
-<style>
-  .attribution { font-size: 11px; text-align: center; }
-  .attribution a { color: hsl(228, 45%, 44%); }
-</style>

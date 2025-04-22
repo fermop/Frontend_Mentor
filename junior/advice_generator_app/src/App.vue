@@ -6,6 +6,6 @@
 <template>
   <main class="min-h-[100vh] flex justify-center items-center flex-col">
     <Card/>
-    <Footer class="hidden"/>
+    <Footer/>
   </main>
 </template>
