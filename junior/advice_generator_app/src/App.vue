@@ -1,11 +1,11 @@
 <script setup>
+  import Card from './components/Card.vue';
   import Footer from './components/Footer.vue';
 </script>
 
 <template>
-  Advice #<!-- Advice ID goes here -->
-
-  "<!-- Advice text goes here -->"
-
-  <Footer class="hidden"/>
+  <main class="min-h-[100vh] flex justify-center items-center flex-col">
+    <Card/>
+    <Footer class="hidden"/>
+  </main>
 </template>
