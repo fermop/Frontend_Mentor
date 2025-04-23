@@ -39,6 +39,8 @@
 
   </div>
   <button 
+    title="Button generator"
+    aria-la
     class="bg-green-300 p-[1.25rem] rounded-full -mt-[2rem] cursor-pointer hover:shadow-[0_0_2rem] shadow-green-300 duration-250"
     @click="getAdvice"
   >
