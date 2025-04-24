@@ -1,8 +1,11 @@
 <script setup>
-  import { ref, onMounted } from 'vue'
+  import { ref, onMounted, computed } from 'vue'
+  import Spinner from './Spinner.vue';
 
   const advice = ref('')
   const adviceId = ref('')
+
+  const loading = ref(false)
 
   onMounted(() => {
     getAdvice()
@@ -10,6 +13,9 @@
 
   const getAdvice = async () => {
     try {
+      advice.value = ''
+      adviceId.value = ''
+      loading.value = true
       const res = await fetch('https://api.adviceslip.com/advice')
       const data = await res.json()
       advice.value = data.slip.advice
@@ -17,6 +23,8 @@
     } catch (error) {
       advice.value = 'Ups! we couldn\'t load the quote.'
       console.error(error)
+    } finally {
+      loading.value = false
     }
   }
 </script>
@@ -24,6 +32,10 @@
 <template>
   <div class="w-[90%] max-w-[33.75rem] bg-blue-900 text-center rounded-[.5rem] md:rounded-[1rem] px-[1rem] md:px-[3rem]">
     <h1 class="text-green-300 tracking-[8px] text-[.75rem] py-[3rem]">ADVICE #{{ adviceId }}</h1>
+
+    <Spinner
+      v-if="loading"
+    />
     <p class="text-blue-200 text-[1.75rem] font-extrabold">"{{ advice }}"</p>
 
     <div class="mt-[2rem] mb-[4rem] md:mt-[3rem] md:mb-[5rem]">
