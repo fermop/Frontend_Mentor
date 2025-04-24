@@ -36,7 +36,10 @@
     <Spinner
       v-if="loading"
     />
-    <p class="text-blue-200 text-[1.75rem] font-extrabold">"{{ advice }}"</p>
+    <p 
+      class="text-blue-200 text-[1.75rem] font-extrabold"
+      v-if="advice"
+    >"{{ advice }}"</p>
 
     <div class="mt-[2rem] mb-[4rem] md:mt-[3rem] md:mb-[5rem]">
       <img 
