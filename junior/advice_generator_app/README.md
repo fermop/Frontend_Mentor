@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-3XvZexYeVi](https://www.frontendmentor.io/solutions/advice-generator-app-3XvZexYeVi)
-- Live Site Here: [https://fermop.github.io/frontend_mentor/junior/advice_generator_app/dist/](https://fermop.github.io/frontend_mentor/junior/advice_generator_app/dist/)
+- Live Site Here: [https://advicegeneratorapp-five.vercel.app/](https://advicegeneratorapp-five.vercel.app/)
 
 ## My process
 
