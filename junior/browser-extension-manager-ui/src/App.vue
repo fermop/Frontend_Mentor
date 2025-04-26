@@ -1,12 +1,11 @@
 <script setup>
-  import { ref, onMounted, computed } from 'vue'
+  import { ref, reactive, onMounted, computed } from 'vue'
 
   import { db } from './data/data.js'
 
   import Header from './components/Header.vue'
   import Card from './components/Card.vue';
   import Footer from './components/Footer.vue'
-import { reactive } from 'vue';
 
   const state = reactive({
     darkMode: false
@@ -14,7 +13,7 @@ import { reactive } from 'vue';
 
   const cards = ref([])
 
-  const filter = ref('')
+  const filter = ref('all')
 
   const cardsFilter = computed(() => {
     if (filter.value === 'active') {
@@ -36,18 +35,9 @@ import { reactive } from 'vue';
     state.darkMode = !state.darkMode
   }
 
-  const showAll = () => {
-    filter.value = ''
-  }
-
-  const showActive = () => {
-    filter.value = 'active'
-  }
-
-  const showInActive = () => {
-    filter.value = 'inactive'
-  }
-
+  const showAll = () => {filter.value = 'all'}
+  const showActive = () => {filter.value = 'active'}
+  const showInActive = () => {filter.value = 'inactive'}
   const removeCard = (card) => {
     return cards.value = cards.value.filter(cardInCards => cardInCards !== card)
   }
@@ -76,22 +66,22 @@ import { reactive } from 'vue';
           class="flex w-fit mt-4 mb-8 m-auto gap-4 md:m-0"
         >
           <button 
-            :class="[filter.value === '' ? 'border-red-400 bg-red-500 text-neutral-0' : '']"
-            class="bg-neutral-0 dark:bg-neutral-700 dark:text-neutral-0 py-[.25rem] text-lg px-4 border-1 rounded-full cursor-pointer hover:opacity-[.7] dark:hover:bg-neutral-600 duration-250  focus:outline-red-500 focus:outline-offset-3"
+            :class="[filter === 'all' ? 'border-red-400 bg-red-500 text-neutral-0 dark:text-neutral-900' : 'bg-neutral-0 dark:bg-neutral-700']"
+            class="dark:text-neutral-0 py-[.25rem] text-lg px-4 border-1 rounded-full cursor-pointer hover:opacity-[.7] duration-250 border-neutral-300 focus:outline-red-500 focus:outline-offset-3"
             @click="showAll"
           >
             All
           </button>
           <button 
-            :class="[filter.value === 'active' ? 'border-red-400 bg-red-500 text-neutral-0' : '']"
-            class="bg-neutral-0 dark:bg-neutral-700 dark:text-neutral-0 py-[.25rem] text-lg px-4 border-1 rounded-full cursor-pointer hover:opacity-[.7] dark:hover:bg-neutral-600 duration-250 border-neutral-300 focus:outline-red-500 focus:outline-offset-3"
+            :class="[filter === 'active' ? 'border-red-400 bg-red-500 text-neutral-0 dark:text-neutral-900' : 'bg-neutral-0 dark:bg-neutral-700']"
+            class="dark:text-neutral-0 py-[.25rem] text-lg px-4 border-1 rounded-full cursor-pointer hover:opacity-[.7] duration-250 border-neutral-300 focus:outline-red-500 focus:outline-offset-3"
             @click="showActive"
           >
             Active
           </button>
           <button 
-            :class="[filter.value === 'inactive' ? 'border-red-400 bg-red-500 text-neutral-0' : '']"
-            class="bg-neutral-0 dark:bg-neutral-700 dark:text-neutral-0 py-[.25rem] text-lg px-4 border-1 rounded-full cursor-pointer hover:opacity-[.7] dark:hover:bg-neutral-600 duration-250 border-neutral-300 focus:outline-red-500 focus:outline-offset-3"
+            :class="[filter === 'inactive' ? 'border-red-400 bg-red-500 text-neutral-0 dark:text-neutral-900' : 'bg-neutral-0 dark:bg-neutral-700']"
+            class="dark:text-neutral-0 py-[.25rem] text-lg px-4 border-1 rounded-full cursor-pointer hover:opacity-[.7] duration-250 border-neutral-300 focus:outline-red-500 focus:outline-offset-3"
             @click="showInActive"
           >
             Inactive
