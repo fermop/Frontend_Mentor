@@ -25,4 +25,4 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 ## Junior
 - [Testimonials grid section](https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/). HTML | CSS
 - [News homepage](https://fermop.github.io/frontend_mentor/junior/news_homepage/). HTML | CSS | JS
-- [Advice generator app](https://fermop.github.io/frontend_mentor/junior/advice_generator_app/dist/). VITE | VUE | TAILWIND | API
+- [Advice generator app](https://advicegeneratorapp-five.vercel.app/). VITE | VUE | TAILWIND | API

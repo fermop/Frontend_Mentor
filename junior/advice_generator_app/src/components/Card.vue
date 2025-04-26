@@ -1,6 +1,7 @@
 <script setup>
   import { ref, onMounted, computed } from 'vue'
   import Spinner from './Spinner.vue';
+  import APIService from '../services/APIService'
 
   const advice = ref('')
   const adviceId = ref('')
@@ -8,18 +9,19 @@
   const loading = ref(false)
 
   onMounted(() => {
-    getAdvice()
+    showAdvice()
   })
 
-  const getAdvice = async () => {
+  const showAdvice = async () => {
     try {
       advice.value = ''
       adviceId.value = ''
       loading.value = true
-      const res = await fetch('https://api.adviceslip.com/advice')
-      const data = await res.json()
-      advice.value = data.slip.advice
-      adviceId.value = data.slip.id
+
+      const {data: {slip}} = await APIService.getAdvice()    
+      
+      advice.value = slip.advice
+      adviceId.value = slip.id
     } catch (error) {
       advice.value = 'Ups! we couldn\'t load the quote.'
       console.error(error)
@@ -56,7 +58,7 @@
   <button 
     title="Button generator"
     class="bg-green-300 p-[1.25rem] rounded-full -mt-[2rem] cursor-pointer hover:shadow-[0_0_2rem] shadow-green-300 duration-250"
-    @click="getAdvice"
+    @click="showAdvice"
   >
     <img src="/assets/images/icon-dice.svg" alt="">
   </button>
