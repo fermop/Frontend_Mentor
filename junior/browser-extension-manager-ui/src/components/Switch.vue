@@ -11,6 +11,7 @@
 
 <template>
   <Switch
+    aria-label="toggler extention state"
     v-model="card.isActive"
     :class="card.isActive ? 'bg-red-500' : 'bg-neutral-300 dark:bg-neutral-600'"
     class="relative inline-flex h-6 w-11 items-center rounded-full cursor-pointer"
