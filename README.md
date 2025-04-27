@@ -26,3 +26,4 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 - [Testimonials grid section](https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/). HTML | CSS
 - [News homepage](https://fermop.github.io/frontend_mentor/junior/news_homepage/). HTML | CSS | JS
 - [Advice generator app](https://advicegeneratorapp-five.vercel.app/). VITE | VUE | TAILWIND | API
+- [Browser extension manager UI](https://frontend-mentor-coral-ten.vercel.app/). VITE | VUE | TAILWIND | HEADLESS UI
