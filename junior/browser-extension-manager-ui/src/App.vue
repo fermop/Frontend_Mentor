@@ -46,7 +46,7 @@
 </script>
 
 <template>
-  <div class="w-[90%] max-w-[73.25rem] m-auto py-8">
+  <div class="w-[90%] max-w-[73.25rem] m-auto pt-8 min-h-[100vh]">
     <Header
       @toggle-dark-mode="toggleDarkMode"
       v-model:darkMode="state.darkMode"
@@ -98,8 +98,11 @@
           @remove-card="removeCard"
         />
       </div>
-  </main>
-
+    </main>
   </div>
+
   <!-- <Footer/> -->
+  <Footer
+    class="text-center text-[.6875rem] my-8"
+  />
 </template>
