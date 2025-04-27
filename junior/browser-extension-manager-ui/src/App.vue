@@ -28,11 +28,18 @@
 
   onMounted(() => {
     cards.value = db
+
+    const isActive = localStorage.getItem('dark-mode') === 'true'
+
+    if (isActive) {
+      toggleDarkMode()
+    }
   })
 
   const toggleDarkMode = () => {
     document.body.classList.toggle('dark')
     state.darkMode = !state.darkMode
+    localStorage.setItem('dark-mode', state.darkMode)
   }
 
   const showAll = () => {filter.value = 'all'}

@@ -20,11 +20,11 @@
 
     <button 
       class="bg-neutral-100 dark:bg-neutral-700 hover:bg-neutral-300 dark:hover:bg-neutral-600 p-3 duration-250 cursor-pointer rounded-xl focus:outline-red-400"
+      @click="$emit('toggle-dark-mode')"
     >
       <img 
         :src="[props.darkMode ? '/assets/images/icon-sun.svg' : '/assets/images/icon-moon.svg']" 
         alt="Toggle mode icon"
-        @click="$emit('toggle-dark-mode')"
       >
     </button>
   </header>
