@@ -1,5 +1,5 @@
 <template>
-  <div class="attribution">
+  <footer class="attribution">
     Challenge by 
       <a 
         href="https://www.frontendmentor.io/challenges/browser-extension-manager-ui-yNZnOfsMAp" target="_blank"
@@ -14,5 +14,5 @@
       >
         Fernando Pérez
       </a>.
-  </div>
+  </footer>
 </template>
