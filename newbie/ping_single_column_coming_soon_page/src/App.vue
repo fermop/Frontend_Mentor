@@ -113,5 +113,5 @@
     </div>
   </div>
   
-  <Footer class="hidden"/>
+  <Footer class="mb-[2rem]"/>
 </template>
