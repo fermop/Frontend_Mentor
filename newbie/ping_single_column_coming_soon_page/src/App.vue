@@ -63,40 +63,42 @@
       class="text-center text-base sm:text-xl text-neutral-very-dark-blue mt-[2rem] mb-[3rem]"
     >Subscribe and get notified</p>
     
-    <form 
-      class="grid gap-[1rem] sm:grid-cols-3 px-[2rem] sm:px-0"
-      @submit.prevent="sendEmail"
-      novalidate
-    >
-      <div class=" sm:col-span-2">
-        <input 
-          type="email"
-          class="w-full border-1 rounded-full p-[1rem] pl-[3rem]"
-          :class="[hasError ? 'border-secondary-light-red' : 'border-secondary-pale-blue']"
-          placeholder="Your email address"
-          v-model="email"
-        >
-  
-        <!-- Alert -->
-        <div
-          v-if="alert"
-          class="text-center sm:text-left sm:pl-[3rem] italic mt-[.5rem] mb-[1rem] text-sm"
-        >
-          <p 
-            class="text-secondary-light-red"
-            v-if="hasError"
-          >{{ errorMsg }}</p>
-          
-          <p 
-            class="text-green-400"
-            v-if="success">Welcome! You are now subscribed!</p>
+    <main>
+      <form 
+        class="grid gap-[1rem] sm:grid-cols-3 px-[2rem] sm:px-0"
+        @submit.prevent="sendEmail"
+        novalidate
+      >
+        <div class=" sm:col-span-2">
+          <input 
+            type="email"
+            class="w-full border-1 rounded-full p-[1rem] pl-[3rem]"
+            :class="[hasError ? 'border-secondary-light-red' : 'border-secondary-pale-blue']"
+            placeholder="Your email address"
+            v-model="email"
+          >
+    
+          <!-- Alert -->
+          <div
+            v-if="alert"
+            class="text-center sm:text-left sm:pl-[3rem] italic mt-[.5rem] mb-[1rem] text-sm"
+          >
+            <p 
+              class="text-secondary-light-red"
+              v-if="hasError"
+            >{{ errorMsg }}</p>
+            
+            <p 
+              class="text-green-400"
+              v-if="success">Welcome! You are now subscribed!</p>
+          </div>
         </div>
-      </div>
-
-      <button
-        class="max-h-[3.5rem] bg-primary-blue text-white font-bold w-full rounded-full p-[1rem] shadow-xl shadow-secondary-pale-blue cursor-pointer hover:opacity-70 duration-250"
-      >Notify Me</button>
-    </form>
+  
+        <button
+          class="max-h-[3.5rem] bg-primary-blue text-white font-bold w-full rounded-full p-[1rem] shadow-xl shadow-secondary-pale-blue cursor-pointer hover:opacity-70 duration-250"
+        >Notify Me</button>
+      </form>
+    </main>
 
     <img 
       class="mt-[5rem] mb-[7.5rem]"
@@ -106,9 +108,9 @@
     
     <Socials />
 
-    <section>
+    <div>
       <p class="text-center my-[3rem] text-sm text-neutral-gray">&copy; Copyright Ping. All rights reserved.</p>
-    </section>
+    </div>
   </div>
   
   <Footer class="hidden"/>
