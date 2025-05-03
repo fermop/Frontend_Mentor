@@ -22,6 +22,7 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 - [Blog preview card](https://fermop.github.io/frontend_mentor/newbie/blog_preview_card/). HTML | CSS
 - [FAQ accordion main](https://fermop.github.io/frontend_mentor/newbie/faq_accordion_main/dist/). VITE | VUE | TAILWIND
 - [Ping single column coming soon page](https://pingsinglecolumncomingsoonpage.vercel.app/). VITE | VUE | TAILWIND
+- [Intro component with sign-up form](https://introcomponentwithsignupform.vercel.app/). VITE | VUE | TAILWIND | HEADLESS UI
 
 ## Junior
 - [Testimonials grid section](https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/). HTML | CSS
