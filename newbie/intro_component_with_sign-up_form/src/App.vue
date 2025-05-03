@@ -84,5 +84,5 @@ const validateForm = () => {
     </section>
   </main>
 
-  <Footer class="hidden"/>
+  <Footer class="my-[2rem]"/>
 </template>
