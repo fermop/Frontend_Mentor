@@ -28,8 +28,6 @@ Users should be able to:
 
 ### Screenshot
 
-### Screenshot
-
 📱 Mobile
 
 ![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/intro_component_with_sign-up_form/mobile.png?raw=true)
