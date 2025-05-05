@@ -62,7 +62,6 @@
     />
 
     <Footer
-      class="hidden"
     />
   </main>
 </template>
