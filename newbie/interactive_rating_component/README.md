@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-z3vNCMz3Bi](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form-z3vNCMz3Bi)
-- Live Site Here: [https://introcomponentwithsignupform.vercel.app/](https://introcomponentwithsignupform.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-LfLawZycOp](https://www.frontendmentor.io/solutions/interactive-rating-component-LfLawZycOp)
+- Live Site Here: [https://interactiveratingcomponent-steel.vercel.app/](https://interactiveratingcomponent-steel.vercel.app/)
 
 ## My process
 
