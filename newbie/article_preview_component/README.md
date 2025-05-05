@@ -2,7 +2,7 @@
 
 This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![Sample GIF](./assets/video/sample.gif)
+![Sample GIF](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/article_preview_component/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -28,12 +28,12 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](./assets/images/mobile.png)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/article_preview_component/mobile.png?raw=true)
 
 💻 Desktop
 
-![Desktop](./assets/images/desktop.png)
-![Desktop](./assets/images/desktop-active.png)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/article_preview_component/desktop.png?raw=true)
+![Desktop active preview](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/article_preview_component/desktop-active.png?raw=true)
 
 ### Links
 

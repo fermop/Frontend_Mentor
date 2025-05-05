@@ -2,7 +2,7 @@
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![Sample GIF](./assets/video/sample.gif)
+![Sample GIF](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/3-column_preview_card_component/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -25,10 +25,10 @@ Users should be able to:
 ### Screenshots
 
 #### Phones and landscape phones
-![Preview on phones](./assets/images/mobile.png)
+![Preview on phones](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/3-column_preview_card_component/mobile.png?raw=true)
 
 #### Desktop
-![Preview on desktops](./assets/images/desktop.png)
+![Preview on desktops](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/3-column_preview_card_component/desktop.png?raw=true)
 
 ### Links
 
