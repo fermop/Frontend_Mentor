@@ -2,7 +2,7 @@
 
 This is a solution to the [Browser extensions manager UI challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/browser-extension-manager-ui-yNZnOfsMAp). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![Sample GIF](./public/assets/video/sample.gif)
+![Sample GIF](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/browser-extension-manager-ui/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -33,11 +33,11 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](./public/assets/images/mobile.png)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/browser-extension-manager-ui/mobile.png?raw=true)
 
 💻 Desktop
 
-![Desktop](./public/assets/images/desktop.png)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/browser-extension-manager-ui/desktop.png?raw=true)
 
 ### Links
 

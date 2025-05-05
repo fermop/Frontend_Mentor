@@ -2,7 +2,7 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![sample](./assets/video/sample.gif)
+![sample](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/qr_code_component/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -28,11 +28,11 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](./assets/images/mobile.png)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/qr_code_component/mobile.png?raw=true)
 
 💻 Desktop
 
-![Desktop](./assets/images/desktop.png)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/qr_code_component/desktop.png?raw=true)
 
 ### Links
 

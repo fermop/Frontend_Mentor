@@ -2,7 +2,7 @@
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![Sample GIF](./assets/video/sample.gif)
+![Sample GIF](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/social_links_profile/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -27,11 +27,11 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](./assets/images/mobile.png)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/social_links_profile/mobile.png?raw=true)
 
 💻 Desktop
 
-![Desktop](./assets/images/desktop.png)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/social_links_profile/desktop.png?raw=true)
 
 ### Links
 

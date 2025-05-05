@@ -2,7 +2,7 @@
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![sample](./assets/video/sample.gif)
+![sample](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/single_price_grid_component/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -28,11 +28,11 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](./assets/images/mobile.png)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/single_price_grid_component/mobile.png?raw=true)
 
 💻 Desktop
 
-![Desktop](./assets/images/desktop.png)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/single_price_grid_component/desktop.png?raw=true)
 
 ### Links
 

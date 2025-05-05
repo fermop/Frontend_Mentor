@@ -2,7 +2,7 @@
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Sample GIF](./assets/video/sample.gif)
+![Sample GIF](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/four_card_feature_section/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -27,15 +27,15 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](./assets/images/mobile.png)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/four_card_feature_section/mobile.png?raw=true)
 
 📱 Tablet
 
-![Tablet](./assets/images/tablet.png)
+![Tablet](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/four_card_feature_section/tablet.png?raw=true)
 
 💻 Desktop
 
-![Desktop](./assets/images/desktop.png)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/four_card_feature_section/desktop.png?raw=true)
 
 ### Links
 

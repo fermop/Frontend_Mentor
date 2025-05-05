@@ -2,7 +2,7 @@
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![sample](./assets/video/sample.gif)
+![sample](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/nft_preview_card_component/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -29,11 +29,11 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](./assets/images/mobile.png)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/nft_preview_card_component/mobile.png?raw=true)
 
 💻 Desktop
 
-![Desktop](./assets/images/desktop.png)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/nft_preview_card_component/desktop.png?raw=true)
 
 ### Links
 

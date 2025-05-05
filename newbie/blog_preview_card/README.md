@@ -2,7 +2,7 @@
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![Sample GIF](./assets/video/sample.gif)
+![Sample GIF](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/blog_preview_card/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Screenshots
 
 #### Preview
-![Preview](./assets/images/preview.png)
+![Preview](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/blog_preview_card/preview.png?raw=true)
 
 ### Links
 

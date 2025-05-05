@@ -2,7 +2,7 @@
 
 This is a solution to the [Ping coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![Sample GIF](./public/assets/video/sample.gif)
+![Sample GIF](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/ping_single_column_coming_soon_page/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -31,11 +31,11 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](./public/assets/images/mobile.png)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/ping_single_column_coming_soon_page/mobile.png?raw=true)
 
 💻 Desktop
 
-![Desktop](./public/assets/images/desktop.png)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/ping_single_column_coming_soon_page/desktop.png?raw=true)
 
 ### Links
 

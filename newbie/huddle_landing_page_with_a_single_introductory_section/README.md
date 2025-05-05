@@ -2,7 +2,7 @@
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![sample](./assets/video/sample.gif)
+![sample](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/huddle_landing_page_with_a_single_introductory_section/sample.gif?raw=true)
 
 ## Table of contents
 
@@ -27,11 +27,11 @@ Users should be able to:
 ### Screenshot
 📱 Mobile
 
-![Mobile](./assets/images/mobile.png)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/huddle_landing_page_with_a_single_introductory_section/mobile.png?raw=true)
 
 💻 Desktop
 
-![Desktop](./assets/images/desktop.png)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/newbie/huddle_landing_page_with_a_single_introductory_section/desktop.png?raw=true)
 
 ### Links
 
