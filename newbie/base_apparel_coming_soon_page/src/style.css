@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Colors */
+  --color-custom-desaturated-red: hsl(0, 36%, 70%);
+  --color-custom-soft-red: hsl(0, 93%, 68%);
+  --color-custom-dark Grayish-red: hsl(0, 6%, 24%);
+
+  /* Font */
+  --font-base: "Josefin Sans", sans-serif;
+}
