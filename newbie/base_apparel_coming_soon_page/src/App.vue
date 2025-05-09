@@ -69,7 +69,7 @@
            <input 
              type="email"
              placeholder="Email Address"
-             class="w-full text-left text-base placeholder:text-custom-desaturated-red border-1 border-custom-desaturated-red rounded-full p-[1rem] pl-6"
+             class="w-full text-left text-base placeholder:text-custom-desaturated-red border-1 border-custom-desaturated-red rounded-full p-[1rem] pl-6 focus:outline-1"
              :class="{'border-custom-soft-red' : error}"
              v-model="email"
            >
@@ -104,7 +104,7 @@
          >{{ alert }}</p>
        </section>
 
-       <Footer class="hidden"/>
+       <Footer class="mb-4"/>
    </div>
 
     <!-- Right part -->
