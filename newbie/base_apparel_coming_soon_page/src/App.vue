@@ -86,6 +86,7 @@
    
            <button
              class="min-w-[5rem] w-full sm:w-[6.25rem] rounded-full flex items-center justify-center bg-linear-to-r from-gradient-left to-gradient-right shadow-xl cursor-pointer hover:bg-none hover:bg-hover"
+             aria-label="Submit button form"
            >
              <img
                src="/assets/images/icon-arrow.svg"
