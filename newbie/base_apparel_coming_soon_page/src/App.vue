@@ -38,7 +38,7 @@
     class="flex flex-col sm:flex-row"
   >
   <!-- Left part -->
-   <div class="sm:w-[60%] sm:flex sm:flex-col sm:items-center sm:min-h-[100dvh]">
+   <div class="bg-linear-to-br from-gradient-tl to-gradient-br sm:w-[60%] sm:flex sm:flex-col sm:items-center sm:min-h-[100dvh] sm:bg-[url(/assets/images/bg-pattern-desktop.svg)] bg-cover">
      <header class="w-full max-w-[28rem] p-[2rem] sm:py-[3rem] lg:px-0">
        <img src="/assets/images/logo.svg" alt="">
      </header>

@@ -9,6 +9,9 @@
   --color-gradient-right: hsl(0, 74%, 74%);
   --color-hover: hsl(0, 90%, 90%);
 
+  --color-gradient-tl: hsl(0, 0%, 100%);
+  --color-gradient-br: hsl(0, 100%, 98%);
+
   /* Font */
   --font-base: "Josefin Sans", sans-serif;
 }
