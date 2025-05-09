@@ -24,6 +24,7 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 - [Ping single column coming soon page](https://pingsinglecolumncomingsoonpage.vercel.app/). VITE | VUE | TAILWIND
 - [Intro component with sign-up form](https://introcomponentwithsignupform.vercel.app/). VITE | VUE | TAILWIND | HEADLESS UI
 - [Interactive rating component](https://interactiveratingcomponent-steel.vercel.app/). VITE | VUE | TAILWIND
+- [Base apparel coming soon page](https://baseapparelcomingsoonpage-iota.vercel.app/). VITE | VUE | TAILWIND
 
 ## Junior
 - [Testimonials grid section](https://fermop.github.io/frontend_mentor/junior/testimonials_grid_section/). HTML | CSS
