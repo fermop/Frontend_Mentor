@@ -20,7 +20,7 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 - [Social links profile](https://fermop.github.io/frontend_mentor/newbie/social_links_profile/). HTML | CSS
 - [Recipe page](https://fermop.github.io/frontend_mentor/newbie/recipe_page/). HTML | CSS
 - [Blog preview card](https://fermop.github.io/frontend_mentor/newbie/blog_preview_card/). HTML | CSS
-- [FAQ accordion main](https://fermop.github.io/frontend_mentor/newbie/faq_accordion_main/dist/). VITE | VUE | TAILWIND
+- [FAQ accordion main](https://faq-accordion-main-azure.vercel.app/). VITE | VUE | TAILWIND
 - [Ping single column coming soon page](https://pingsinglecolumncomingsoonpage.vercel.app/). VITE | VUE | TAILWIND
 - [Intro component with sign-up form](https://introcomponentwithsignupform.vercel.app/). VITE | VUE | TAILWIND | HEADLESS UI
 - [Interactive rating component](https://interactiveratingcomponent-steel.vercel.app/). VITE | VUE | TAILWIND

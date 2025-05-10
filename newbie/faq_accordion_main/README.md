@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/faq-accordion-main-AOIPWge2U2](https://www.frontendmentor.io/solutions/faq-accordion-main-AOIPWge2U2)
-- Live Site Here: [https://fermop.github.io/frontend_mentor/newbie/faq_accordion_main/dist/](https://fermop.github.io/frontend_mentor/newbie/faq_accordion_main/dist/)
+- Live Site Here: [https://faq-accordion-main-azure.vercel.app/](https://faq-accordion-main-azure.vercel.app/)
 
 ## My process
 
