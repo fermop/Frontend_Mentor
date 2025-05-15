@@ -15,7 +15,7 @@
 
 <template>
   <main
-    class="w-full max-sm:h-[100dvh] sm:h-[40rem] max-w-[58.125rem] bg-custom-white sm:flex flex-row-reverse sm:py-[1.5rem] sm:pr-[1.5rem] sm:rounded-4xl shadow-2xl"
+    class="w-full max-sm:min-h-[53.125rem] max-sm:h-[100dvh] sm:h-[40rem] max-w-[58.125rem] bg-custom-white sm:flex flex-row-reverse sm:py-[1.5rem] sm:pr-[1.5rem] sm:rounded-4xl shadow-2xl"
   >
     <div class="sm:w-[40%] sm:bg-[url(/assets/images/illustration-sign-up-desktop.svg)] bg-cover bg-center bg-no-repeat sm:rounded-2xl">
       <img
