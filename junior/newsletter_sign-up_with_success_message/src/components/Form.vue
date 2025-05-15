@@ -17,7 +17,7 @@
   <main
     class="h-[100dvh] w-full max-w-[58.125rem] sm:h-[40rem] bg-custom-white sm:flex flex-row-reverse sm:py-[1rem] sm:pr-[1rem] sm:rounded-3xl sm:overflow-hidden shadow-2xl"
   >
-    <div class="sm:w-[50%] sm:bg-[url(/assets/images/illustration-sign-up-desktop.svg)] bg-cover bg-center bg-no-repeat">
+    <div class="sm:w-[50%] sm:bg-[url(/assets/images/illustration-sign-up-desktop.svg)] bg-cover bg-center bg-no-repeat sm:rounded-2xl">
       <img
         src="/assets/images/illustration-sign-up-mobile.svg"
         alt=""
