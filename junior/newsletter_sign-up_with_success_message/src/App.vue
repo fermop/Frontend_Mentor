@@ -1,35 +1,60 @@
 <script setup>
+  import { ref } from 'vue';
+  import Form from './components/Form.vue';
+  import Spinner from './components/Spinner.vue';
+  import Success from './components/Success.vue';
   import Footer from './components/Footer.vue';
+
+  const email = ref('')
+  const error = ref(false)
+  const success = ref(false)
+  const loading = ref(false)
+
+  const validateForm = () => {
+    // Validate email
+    const regex = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i;
+    if (!regex.test(email.value)) {
+      error.value = true
+      return
+    }
+
+    success.value = true
+    loading.value = true
+    error.value = false
+
+    setTimeout(() => {
+      loading.value = false
+    }, 1500)
+  }
+
+  const dismissMessage = () => {
+    loading.value = true
+    
+    setTimeout(() => {
+      email.value = ''
+      loading.value = false
+      success.value = false
+    }, 1500)
+  }
 </script>
 
 <template>
-  <!-- Sign-up form start -->
+  <div class="min-h-[100dvh] flex flex-col items-center justify-center  sm:p-4 lg:p-0">
+    <Form
+      v-if="!success"
+      v-model:email="email"
+      :error="error"
+      @validate-form="validateForm"
+    />
 
-  Stay updated!
+    <Spinner v-if="loading"/>
 
-  Join 60,000+ product managers receiving monthly updates on:
-
-  Product discovery and building what matters
-  Measuring to ensure updates are a success
-  And much more!
-
-  Email address
-  email@company.com
-
-  Subscribe to monthly newsletter
-
-  <!-- Sign-up form end -->
-
-  <!-- Success message start -->
-
-  Thanks for subscribing!
-
-  A confirmation email has been sent to ash@loremcompany.com. 
-  Please open it and click the button inside to confirm your subscription.
-
-  Dismiss message
-
-  <!-- Success message end -->
-  
-  <Footer class="hidden"/>
+    <Success 
+      v-if="success && !loading"
+      :email="email"
+      @dismiss-message="dismissMessage"
+    />
+    
+    <Footer class="hidden"/>
+  </div>
 </template>
