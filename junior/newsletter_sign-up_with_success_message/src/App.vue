@@ -54,7 +54,7 @@
       :email="email"
       @dismiss-message="dismissMessage"
     />
-    
-    <Footer class="hidden"/>
   </div>
+  
+  <Footer class=""/>
 </template>

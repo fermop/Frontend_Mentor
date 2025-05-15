@@ -15,7 +15,7 @@
 
 <template>
   <main
-    class="h-[100dvh] w-full max-w-[58.125rem] sm:h-[40rem] bg-custom-white sm:flex flex-row-reverse sm:py-[1.5rem] sm:pr-[1.5rem] sm:rounded-4xl sm:overflow-hidden shadow-2xl"
+    class="w-full max-sm:h-[100dvh] sm:h-[40rem] max-w-[58.125rem] bg-custom-white sm:flex flex-row-reverse sm:py-[1.5rem] sm:pr-[1.5rem] sm:rounded-4xl shadow-2xl"
   >
     <div class="sm:w-[40%] sm:bg-[url(/assets/images/illustration-sign-up-desktop.svg)] bg-cover bg-center bg-no-repeat sm:rounded-2xl">
       <img
@@ -25,7 +25,7 @@
       >
     </div>
 
-    <div class="bg-custom-white sm:w-[60%] text-custom-blue-800 px-[2rem] py-[2rem] sm:p-0 space-y-6 sm:flex sm:flex-col justify-center sm:px-[4rem]">
+    <div class="sm:w-[60%] text-custom-blue-800 px-[2rem] py-[2rem] sm:p-0 space-y-6 sm:flex sm:flex-col justify-center sm:px-[4rem]">
       <h1 class="font-bold text-4xl lg:text-[3.5rem]">Stay updated!</h1>
       <p class="text-base">Join 60,000+ product managers receiving monthly updates on:</p>
 
