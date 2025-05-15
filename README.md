@@ -31,3 +31,4 @@ This is a repositoy where I have all the challenges I have completed from Fronte
 - [News homepage](https://fermop.github.io/frontend_mentor/junior/news_homepage/). HTML | CSS | JS
 - [Advice generator app](https://advicegeneratorapp-five.vercel.app/). VITE | VUE | TAILWIND | API
 - [Browser extension manager UI](https://frontend-mentor-coral-ten.vercel.app/). VITE | VUE | TAILWIND | HEADLESS UI
+- [Newsletter sign-up with success message](https://newslettersign-up.vercel.app/). VITE | VUE | TAILWIND

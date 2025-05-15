@@ -26,8 +26,6 @@ Users should be able to:
 
 ### Screenshot
 
-### Screenshot
-
 📱 Mobile
 
 ![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/advice_generator_app/mobile.png?raw=true)

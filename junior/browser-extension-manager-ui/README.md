@@ -29,8 +29,6 @@ Users should be able to:
 
 ### Screenshot
 
-### Screenshot
-
 📱 Mobile
 
 ![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/browser-extension-manager-ui/mobile.png?raw=true)
