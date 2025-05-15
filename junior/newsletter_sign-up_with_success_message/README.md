@@ -32,11 +32,11 @@ Users should be able to:
 
 📱 Mobile
 
-![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/newsletter_sign-up_with_success_message/mobile.png?raw=true)
+![Mobile](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/newsletter_sign-up_with_success_message/mobile.jpg?raw=true)
 
 💻 Desktop
 
-![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/newsletter_sign-up_with_success_message/desktop.png?raw=true)
+![Desktop](https://github.com/fermop/frontend_mentor-assets/blob/main/junior/newsletter_sign-up_with_success_message/desktop.jpg?raw=true)
 
 ### Links
 
